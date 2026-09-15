@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- Página Principal / Home -->
+  <url>
+    <loc>https://cuponsdehoje.net.br/</loc>
+    <lastmod>2026-09-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+
+    <!-- Imagens indexáveis da página para o Google Imagens -->
+    <image:image>
+      <image:loc>https://cuponsdehoje.net.br/cupons-de-descontos.jpg</image:loc>
+      <image:title>Resgate de cupons na Shopee oficial: cupons de descontos na Shopee valido hoje</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://cuponsdehoje.net.br/shopee-resgate-cupons-20off.jpg</image:loc>
+      <image:title>Cupons de descontos na Shopee atualizado com 20% OFF no app Shopee</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://cuponsdehoje.net.br/shopee-dia-de-cupom-pix.jpg</image:loc>
+      <image:title>Cupons de frete gratis na Shopee brasil e desconto exclusivo no PIX</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://cuponsdehoje.net.br/shopee-cupom-10-off.jpg</image:loc>
+      <image:title>Cupom shopee primeira compra e cupom shopee valido de R$ 10 OFF</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://cuponsdehoje.net.br/shopee-cupons-diarios.jpg</image:loc>
+      <image:title>Cupons diario na Shopee brasil liberados todos os dias no aplicativo Shopee</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://cuponsdehoje.net.br/shopee-cashback-moedas.jpg</image:loc>
+      <image:title>Achadinhos shopee e achei na shopee com cupons cashback ate 30 por cento</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://cuponsdehoje.net.br/shopee-qr-code.jpg</image:loc>
+      <image:title>Baixar app shopee e baixar aplicativo da Shopee oficial brasil pelo QR Code</image:title>
+    </image:image>
+  </url>
+
+</urlset>
